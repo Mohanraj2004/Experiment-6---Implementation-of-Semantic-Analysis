@@ -23,8 +23,8 @@ Process the text file and display the verbs and their synonyms.
 
 ## Program:
 ```
-# Reg.no: 212222230065
-# Name: Kavya K
+# Reg.no: 212212230065
+# Name: Mohan raj.S
 ```
 ```python
 import nltk
